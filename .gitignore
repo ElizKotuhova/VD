@@ -10,6 +10,8 @@
 .idea/
 out
 *.target
+.Setup/
+.VPN/
 
 # Log file
 *.log
